@@ -21,7 +21,7 @@ function voltar(elemento){
 }
 
 function load(){
-    alert("Pgina carregada")
+    alert("Pagina carregada")
 }
 
 function funcaoChange(elemento){
